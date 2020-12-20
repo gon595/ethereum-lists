@@ -1,0 +1,37 @@
+{
+"symbol": "NeuroG",
+
+"name": "Neurogress",
+
+"type": "ERC20",
+
+"address": "0xD3628dd9Fe05d13431dD7Ac8B3E176A3B44abA6D",
+"ens_address": "",
+"decimals": 19,
+"website": "https://Neurogress.com",
+"logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "info@neurogress.site",
+    "url": "https://neurogress.com/"
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}
